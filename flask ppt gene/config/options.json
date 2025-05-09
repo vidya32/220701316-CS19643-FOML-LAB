@@ -1,0 +1,5 @@
+{
+    "models": {
+        "cohere": ["command-r-plus", "command-r", "command-light"]
+    }
+}
